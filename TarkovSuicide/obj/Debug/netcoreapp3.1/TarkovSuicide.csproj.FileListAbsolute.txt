@@ -1,0 +1,5 @@
+C:\Users\xygen\Documents\GitHub\TarkovSuicide\TarkovSuicide\obj\Debug\netcoreapp3.1\TarkovSuicide.csproj.AssemblyReference.cache
+C:\Users\xygen\Documents\GitHub\TarkovSuicide\TarkovSuicide\obj\Debug\netcoreapp3.1\TarkovSuicide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xygen\Documents\GitHub\TarkovSuicide\TarkovSuicide\obj\Debug\netcoreapp3.1\TarkovSuicide.AssemblyInfoInputs.cache
+C:\Users\xygen\Documents\GitHub\TarkovSuicide\TarkovSuicide\obj\Debug\netcoreapp3.1\TarkovSuicide.AssemblyInfo.cs
+C:\Users\xygen\Documents\GitHub\TarkovSuicide\TarkovSuicide\obj\Debug\netcoreapp3.1\TarkovSuicide.csproj.CoreCompileInputs.cache
